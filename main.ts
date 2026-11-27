@@ -28,7 +28,14 @@ if (!existsSync(shotsDir) || !statSync(shotsDir).isDirectory()) {
 }
 
 // Start from a clean output directory so a stale file can never leak in.
-rmSync(outDir, { recursive: true, force: true });
+// Clear only the directory's contents, never the directory itself: in the
+// grader /output is a Docker volume mount point, and removing the mount
+// point itself throws EBUSY.
+if (existsSync(outDir)) {
+  for (const entry of readdirSync(outDir)) {
+    rmSync(join(outDir, entry), { recursive: true, force: true });
+  }
+}
 mkdirSync(outDir, { recursive: true });
 
 cpSync(gameDir, join(outDir, 'game'), { recursive: true });
