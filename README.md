@@ -1,8 +1,8 @@
 # Gobble Dash — Turkey's Last Thanksgiving
 
-[![turkey-run-game-01](https://make.fun/badge/turkey-run-game-01.svg)](https://make.fun/bounty/turkey-run-game-01)
-[![rank](https://make.fun/badge/turkey-run-game-01/deedath123/turkey-run-game-01/rank.svg)](https://make.fun/bounty/turkey-run-game-01)
-[![reward](https://make.fun/badge/turkey-run-game-01/deedath123/turkey-run-game-01/reward.svg)](https://make.fun/bounty/turkey-run-game-01)
+[![make.fun · turkey-run-game-01](https://make.fun/badge/turkey-run-game-01.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![rank](https://make.fun/badge/turkey-run-game-01/deedath123/best-turkey-escape-game-20261127/rank.svg)](https://make.fun/bounty/turkey-run-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![reward](https://make.fun/badge/turkey-run-game-01/deedath123/best-turkey-escape-game-20261127/reward.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
 
 Entry for the make.fun bounty **turkey-run-game-01** — "Make the best turkey
 escape game" ($250 escrowed, top 20 paid).
